@@ -1,4 +1,4 @@
-# **Monitoramento de BPM e Temperatura**
+# **💓 Monitoramento de BPM e Temperatura**
 
 Este repositório implementa um sistema de **monitoramento de batimentos cardíacos (BPM) e temperatura ambiente**, utilizando um ESP32, display OLED, sensor de pulso, sensor de temperatura DHT22, LEDs indicadores e buzzer. O sistema exibe em tempo real os valores medidos e envia os dados via MQTT.
 
